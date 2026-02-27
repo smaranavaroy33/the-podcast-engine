@@ -1,0 +1,25 @@
+# Core ADK Framework
+google-adk>=1.0.0
+litellm>=1.0.0
+
+# TTS
+chatterbox-tts>=0.1.0
+edge-tts>=6.1.0
+numpy>=1.26.0
+
+# Audio Processing
+pydub>=0.25.1
+
+# Environment & Config
+python-dotenv>=1.0.0
+
+# Web UI
+streamlit>=1.30.0
+
+# HTTP Requests (for research tool fallback)
+requests>=2.31.0
+
+# Search
+langchain-community>=0.0.1
+duckduckgo-search>=5.3.0
+ddgs>=9.10.0
